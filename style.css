@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+
+body {
+    border: 20px solid #BDC3C7;
+    width: 80%;
+    padding: 1%;
+    border-radius: 25px;
+    margin: auto auto 0 auto;
+}
+
+
+p {
+    text-align: right;
+    width: 95%;
+    margin: auto 5px 10px auto;
+}
+.centerP {
+    text-align: center;
+}
+.Date {
+    color: #3498DB;
+    margin-top: 0;
+}
+
+
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #3D3D3D;
+    margin: auto;
+} 
+h2:hover {
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+
+hr {
+    border: none;
+    height: 5px;
+    background-color: #BDC3C7;
+    width: 100%;
+    border-radius: 100px;
+}
+.SectionLine {
+    height: 10px;
+    margin-bottom: 20px;
+}
